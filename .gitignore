@@ -1,0 +1,43 @@
+# Python and Django-specific files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.log
+*.pot
+*.pyc
+
+# Virtual environment files
+venv/
+*.venv
+venv.bak/
+.virtualenv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.sublime-project
+*.sublime-workspace
+
+# Database files
+*.sqlite3
+*.db
+*.sql
+
+# Media and static files
+media/
+static/
+
+# Django Secret Key
+*.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
